@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    width: 75%;
+    margin: auto;
+    overflow: hidden;
+    
+}
+
+.user{
+    margin-top: 30px;
+    margin-left: 250px;
+    
+}
+
+#fst
+{
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#last
+{
+    margin-left: 10px;
+    padding: 10px;
+}
+
+#pass
+{
+    width: 350px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.checked {
+    color: orange;
+  }
+
+  #tab
+  {
+      text-align: center;
+      padding: 10px;
+  }
+
+  .row{
+      padding-left: 30px;
+  }
+
+.data{
+    width: 17%;
+}
+
+.col{
+    background-color: rgb(196, 184, 184);
+}
+
+#com
+{
+width: 700px;
+padding: 50px;
+}
+#sum
+{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
